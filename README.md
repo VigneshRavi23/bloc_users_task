@@ -1,16 +1,28 @@
-# task1
+# Flutter BLoC Pattern TASK - User Listing App
 
-A new Flutter project.
+This Flutter app demonstrates the use of the BLoC pattern to list users fetched from an API.
+
+## Prerequisites
+
+To build and run this app, you need to have the following software and tools installed:
+
+- Flutter 3.10.5
+- Dart 3.0.5
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these steps to build and run the app on your local machine:
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Clone the repository
+git clone https://github.com/VigneshRavi23/bloc_users_task.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2. Navigate to the project directory
+cd your-repository
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 3. Install dependencies
+flutter pub get
+
+### 4. Run the app
+Launch the app on an emulator or a physical device:
+
+flutter run
