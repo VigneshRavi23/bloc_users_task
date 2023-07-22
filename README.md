@@ -14,6 +14,11 @@ To build and run this app, you need to have the following software and tools ins
 Follow these steps to build and run the app on your local machine:
 
 ### 1. Clone the repository
+```javascript
+// This is a JavaScript code block
+const message = "Hello, World!";
+console.log(message);
+
 git clone https://github.com/VigneshRavi23/bloc_users_task.git
 
 ### 2. Navigate to the project directory
